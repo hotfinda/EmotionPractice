@@ -1,0 +1,6 @@
+记录一下一步一步实现的过程
+运行平台：阿里云
+安装依赖：
+1)实现Import cv2: pip install opencv-python --user
+2)实现from skimage.transform import resize： pip install scikit-image --user
+
