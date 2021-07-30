@@ -4,4 +4,4 @@
 1)实现Import cv2: pip install opencv-python --user
 2)实现from skimage.transform import resize： pip install scikit-image --user
 3)人脸识别的数据集：https://blog.csdn.net/computerme/article/details/49469767
-4)安装tensorflow:pip install tesnorflow 
+4)安装tensorflow:pip install tesnorflow==2.4.0
