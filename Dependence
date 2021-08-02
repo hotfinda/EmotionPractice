@@ -5,3 +5,4 @@
 2)实现from skimage.transform import resize： pip install scikit-image --user
 3)人脸识别的数据集：https://blog.csdn.net/computerme/article/details/49469767
 4)安装tensorflow:pip install tesnorflow==2.4.0
+5)移除jupyter notebook错误节点：rm -rf .ipynb_checkpoints
