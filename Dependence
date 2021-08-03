@@ -6,3 +6,4 @@
 3)人脸识别的数据集：https://blog.csdn.net/computerme/article/details/49469767
 4)安装tensorflow:pip install tesnorflow==2.4.0
 5)移除jupyter notebook错误节点：rm -rf .ipynb_checkpoints
+6)tf_upgrade_v2 --infile SpatioTemporal_Feature_Learning.py V2_SpatioTemporal_Feature_Learning.py
